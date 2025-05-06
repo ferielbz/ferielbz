@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there, I'm Feriel 👋
 
-<!--
-**ferielbz/ferielbz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught Python developer who loves automating tasks, solving small problems with code, and learning by building.
 
-Here are some ideas to get you started:
+### 🔧 Skills
+- **Languages:** Python (Basics, Scripting, Automation)
+- **Tools & Libraries:** requests, BeautifulSoup, pandas, selenium
+- **Other:** Git & GitHub, basic Bash scripting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Projects
+- **File Organizer Script:** Automatically organizes files in folders based on extension or date.
+- **News Scraper:** Collects latest news headlines from multiple websites and saves them to Excel.
+- **Currency Price Fetcher:** Simple tool to fetch and display real-time exchange rates.
+
+### 💬 How can I help?
+If you need a small script to save you time, automate a task, or collect data, feel free to reach out.
+
+### 📫 Contact
+- Email: [ferielchourfi@gmail.com]
